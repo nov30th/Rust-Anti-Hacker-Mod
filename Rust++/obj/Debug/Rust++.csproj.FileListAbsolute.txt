@@ -1,0 +1,4 @@
+C:\Users\QZJ\Desktop\New folder (6)\trunk\Rust++\bin\Debug\Rust++.dll
+C:\Users\QZJ\Desktop\New folder (6)\trunk\Rust++\bin\Debug\Rust++.pdb
+C:\Users\QZJ\Desktop\New folder (6)\trunk\Rust++\obj\Debug\Rust++.dll
+C:\Users\QZJ\Desktop\New folder (6)\trunk\Rust++\obj\Debug\Rust++.pdb

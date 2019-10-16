@@ -1,0 +1,14 @@
+C:\Users\QZJ\Desktop\New folder (6)\trunk\Rust++\bin\Debug\RustAirDrop.dll
+C:\Users\QZJ\Desktop\New folder (6)\trunk\Rust++\bin\Debug\RustAirDrop.pdb
+C:\Users\QZJ\Desktop\New folder (6)\trunk\Rust++\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\QZJ\Desktop\New folder (6)\trunk\Rust++\bin\Debug\Assembly-CSharp.dll
+C:\Users\QZJ\Desktop\New folder (6)\trunk\Rust++\bin\Debug\Assembly-UnityScript-firstpass.dll
+C:\Users\QZJ\Desktop\New folder (6)\trunk\Rust++\bin\Debug\Assembly-UnityScript.dll
+C:\Users\QZJ\Desktop\New folder (6)\trunk\Rust++\bin\Debug\Facepunch.ID.dll
+C:\Users\QZJ\Desktop\New folder (6)\trunk\Rust++\bin\Debug\LeatherLoader.dll
+C:\Users\QZJ\Desktop\New folder (6)\trunk\Rust++\bin\Debug\uLink.dll
+C:\Users\QZJ\Desktop\New folder (6)\trunk\Rust++\bin\Debug\UnityEngine.dll
+C:\Users\QZJ\Desktop\New folder (6)\trunk\Rust++\obj\Debug\RustAirDrop.dll
+C:\Users\QZJ\Desktop\New folder (6)\trunk\Rust++\obj\Debug\RustAirDrop.pdb
+C:\Users\QZJ\Desktop\New folder (6)\trunk\Rust++\bin\Debug\Facepunch.Actor.dll
+C:\Users\QZJ\Desktop\New folder (6)\trunk\Rust++\bin\Debug\Facepunch.Cursor.dll

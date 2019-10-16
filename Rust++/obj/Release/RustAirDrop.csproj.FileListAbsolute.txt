@@ -1,0 +1,3 @@
+C:\Users\QZJ\Desktop\New folder (6)\trunk\Rust++\bin\Release\RustAirDrop.dll
+C:\Users\QZJ\Desktop\New folder (6)\trunk\Rust++\obj\Release\RustAirDrop.dll
+C:\Users\QZJ\Desktop\New folder (6)\trunk\Rust++\obj\Release\RustAirDrop.csprojResolveAssemblyReference.cache
